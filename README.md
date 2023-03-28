@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumraa</h1>
-<h3 align="center">A passionate full stack developer from India</h3><hr />
+<h3 align="center">A passionate full stack developer from India</h3><hr /><br />
 
 - 🔭 I’m currently working on **full stack web and mobile apps**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivamkumraa9@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/shivam-kumr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumr" height="30" width="40" /></a>
 <a href="https://instagram.com/shivamkumraa9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamkumraa9" height="30" width="40" /></a>
