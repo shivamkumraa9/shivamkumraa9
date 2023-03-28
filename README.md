@@ -13,6 +13,9 @@
 
 - 📫 Feel free to reach me **shivamkumraa9@gmail.com**
 
+- ⚡ Fun fact **"Debugging" is like being a detective in a crime movie where you are also the murderer.**
+
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/shivam-kumr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumr" height="30" width="40" /></a>
