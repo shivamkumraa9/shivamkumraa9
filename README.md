@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumraa</h1>
-<h3 align="center">A passionate full stack developer from India</h3><hr /><br />
+<h3 align="center">A passionate full stack developer from India</h3><hr />
 
-- 🔭 I’m currently working on **full stack web and mobile apps**
+- 🔭 I’m currently working on **Full stack web and mobile apps**
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Machine learning**
 
-- 🤝 I’m looking for help with **product design**
+- 🤝 I’m looking for help with **Product design**
 
 - 👨‍💻 Personal website [https://shivamkumraa.com](https://shivamkumraa.com)
 
