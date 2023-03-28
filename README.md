@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN, MEVN, Django**
 
-- 📫 How to reach me **shivamkumraa9@gmail.com**
+- 📫 Feel free to reach me **shivamkumraa9@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
