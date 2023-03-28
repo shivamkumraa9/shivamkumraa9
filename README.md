@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full stack web and mobile apps**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for help with **Product design**
 
