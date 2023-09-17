@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumraa</h1>
-<h3 align="center">A passionate full stack developer from India</h3><hr />
+<h3 align="center">A passionate full stack developer from Canada</h3><hr />
 
 - 🔭 I’m currently working on **Full stack web and mobile apps**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **PHP**
 
 - 🤝 I’m looking for help with **Product design**
-
-- 👨‍💻 Personal website [https://shivamkumraa.com](https://shivamkumraa.com)
 
 - 💬 Ask me about **MERN, MEVN, Django**
 
